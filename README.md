@@ -63,7 +63,7 @@ Demonstration video of inference of the best run of each Faster (explicar melhor
 
 ---
 
-#### BibTeX
+### BibTeX
 
     @article{berriel2017grsl,
         Author  = {Rodrigo F. Berriel and Andre T. Lopes and Alberto F. de Souza and Thiago Oliveira-Santos},
