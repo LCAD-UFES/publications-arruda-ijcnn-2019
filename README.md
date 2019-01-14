@@ -55,15 +55,12 @@ todo
 
 ### Videos
 
-todo
+Video demonstrating the inference performed by the trained Faster R-CNN model which yielded the best results in our system:
 
-<!--
-Demonstration video of inference of the best run of each Faster (explicar melhor) the system:
-#### Testing in the day plus night
-[![Video1](https://github.com/rodrigoberriel/ego-lane-analysis-system/blob/master/images/thumb-video-1.png)](https://youtu.be/NPU9tiyA8vw)
-#### Testing in the night
-[![Video2](https://github.com/rodrigoberriel/ego-lane-analysis-system/blob/master/images/thumb-video-2.png)](https://youtu.be/R5wdPJ4ZI5M)
--->
+#### Testing on Day+Night Dataset
+[![Video1](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/day_plus_night_overview.png)](https://youtu.be/qENxVuUXa0s)
+#### Testing on Night Dataset
+[![Video2](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/night_video_overview.png)](https://youtu.be/MqZ2I-h_FOA)
 
 ---
 
