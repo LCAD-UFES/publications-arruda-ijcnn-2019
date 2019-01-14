@@ -32,24 +32,29 @@ todo
 
 #### CycleGAN
 
-todo 
-<!--(Pre-trained models are available [here](www.google.com))-->
+The trained model used in this paper is available [here](https://drive.google.com/drive/folders/17CJ5-cOK2CteZTPtRaT7rfW8oSt38CCe?usp=sharing).
 
 #### Faster R-CNN
 
-todo
+The trained models used in this paper are available [here](https://drive.google.com/drive/folders/1XRtExg-QGVA-DFJ1EKf8L0GLCxe5wIqH?usp=sharing).
 
 ---
 
 ### Dataset
 
-#### Dataset Acquisition
+#### Berkeley Deep Drive Dataset
+
+##### Dataset Acquisition
 
 todo
 
-#### Dataset Filtering
+##### Dataset Filtering
 
 todo
+
+#### Generated Dataset
+
+Available [here](https://drive.google.com/drive/folders/1ZoXfgpTT1N5eOsI4-Tcv0id3mqij5gsP?usp=sharing).
 
 ---
 
