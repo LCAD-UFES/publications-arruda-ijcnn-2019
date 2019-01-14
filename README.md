@@ -58,9 +58,9 @@ todo
 Video demonstrating the inference performed by the trained Faster R-CNN model which yielded the best results in our system:
 
 #### Testing on Day+Night Dataset
-[![Video1](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/day_plus_night_overview.png){:width="500px"}](https://youtu.be/qENxVuUXa0s)
+[![Video1](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/day_plus_night_overview.png)](https://youtu.be/qENxVuUXa0s)
 #### Testing on Night Dataset
-[![Video2](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/night_video_overview.png){:width="500px"}](https://youtu.be/MqZ2I-h_FOA)
+[![Video2](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/night_video_overview.png)](https://youtu.be/MqZ2I-h_FOA)
 
 ---
 
