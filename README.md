@@ -2,11 +2,11 @@
 
 [Vinicius F. Arruda](viniciusarruda.github.io), Thiago M. Paixão, [Rodrigo F. Berriel](http://rodrigoberriel.com), [Alberto F. De Souza](https://inf.ufes.br/~alberto), [Claudine Badue](https://www.inf.ufes.br/~claudine/), [Nicu Sebe](http://disi.unitn.it/~sebe/) and [Thiago Oliveira-Santos](https://www.inf.ufes.br/~todsantos/home)
 
-Published in *todo*: [DOI](https://www.google.com/)
+<!---Published in *todo*: [DOI](https://www.google.com/)-->
 
 #### Abstract
 
-todo
+Coming soon !
 <!---
 Object detection has become a high-profile research area due to its important role in various tasks involving images. However, state-of-the-art detectors are data-driven, delegating the accuracy to the training dataset which must resemble the images in the target task. The acquisition of a dataset involves annotating images, an arduous and expensive process, generally requiring time and manual effort. Thus, a challenging scenario arises when the target domain of application has no annotated dataset available, making tasks in such situation to lean on a training dataset of a different domain.
 Sharing this issue, object detection is a vital task for autonomous vehicles where the large amount of driving scenarios yields several domains of application requiring annotated data for the training process.
@@ -20,11 +20,13 @@ For that, a model based on Generative Adversarial Networks (GANs) is explored to
 
 #### CycleGAN
 
-todo
+The source code used for the CycleGAN model was made publicy available by [Van Huy](https://github.com/vanhuyz/CycleGAN-TensorFlow).
 
 #### Faster R-CNN
 
-todo
+The source code used for the Faster R-CNN model was made publicy available by [Xinlei Chen](https://github.com/endernewton/tf-faster-rcnn).
+
+For training the Faster R-CNN, a pre-trained resnet-101 model was used to initializate the process an can be downloaded [here](http://download.tensorflow.org/models/resnet_v1_101_2016_08_28.tar.gz).
 
 ---
 
@@ -46,13 +48,17 @@ The trained models used in this paper are available [here](https://drive.google.
 
 ##### Dataset Acquisition
 
-todo
+Download the Berkeley Deep Drive dataset [here](https://bdd-data.berkeley.edu/).
+Is only necessary to download the Images and Labels files.
 
 ##### Dataset Filtering
 
-todo
+After downloading the BDD dataset, the Images and Labels will be placed into the zipped files `bdd100k_images.zip` and `bdd100k_labels.zip` respectively. In the same directory, place the provided source code `filter_dataset.py` from this repository with the folder `lists`.
 
-#### Generated Dataset
+On the terminal, run: `python filter_dataset.py`.
+It will take a few minutes, and at the end, the folder `images` and `labels` will contain the images and bounding boxes of the images respectively. 
+
+#### Generated (Fake) Dataset
 
 Available [here](https://drive.google.com/drive/folders/1ZoXfgpTT1N5eOsI4-Tcv0id3mqij5gsP?usp=sharing).
 
