@@ -3,7 +3,7 @@
 [Vinicius F. Arruda](viniciusarruda.github.io), [Thiago M. Paixão](https://sites.google.com/site/professorpx), [Rodrigo F. Berriel](http://rodrigoberriel.com), [Alberto F. De Souza](https://inf.ufes.br/~alberto), [Claudine Badue](https://www.inf.ufes.br/~claudine/), [Nicu Sebe](http://disi.unitn.it/~sebe/) and [Thiago Oliveira-Santos](https://www.inf.ufes.br/~todsantos/home)
 
 <!---Published in *todo*: [DOI](https://www.google.com/)-->
-Paper accepted at IJCNN 2019 Conference.
+Paper accepted at [IJCNN](https://www.ijcnn.org/) 2019 Conference.
 A preprint version can be accessed [here](https://drive.google.com/file/d/162QG-V5-ogNFTtwFJi_GeDKrPzdnTH0X/view?usp=sharing).
 
 #### Copyright
@@ -85,11 +85,10 @@ Inferences performed on night dataset:
 
 ---
 
-Testing on Day+Night Dataset             |  Testing on Night Dataset
-:-------------------------:|:-------------------------:
+ Testing on Day+Night Dataset | Testing on Night Dataset 
+-------------------------|-------------------------
 [![Video1](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/day_plus_night_video_overview.png)](https://youtu.be/qENxVuUXa0s)  |  [![Video2](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/night_video_overview.png)](https://youtu.be/MqZ2I-h_FOA)
-:-------------------------:|:-------------------------:
-Inferences performed on day+night dataset            |  Inferences performed on night dataset
+ Inferences performed on day+night dataset | Inferences performed on night dataset 
 
 ---
 
