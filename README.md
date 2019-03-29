@@ -85,8 +85,15 @@ Inferences performed on night dataset:
 
 ---
 
+<style>
+.site-main table.no-border td {
+    border: none;
+}
+</style>
+<table class="no-border">....</table>
+
  Testing on Day+Night Dataset | Testing on Night Dataset 
--------------------------|-------------------------
+:-------------------------:|:-------------------------:
 [![Video1](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/day_plus_night_video_overview.png)](https://youtu.be/qENxVuUXa0s)  |  [![Video2](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/night_video_overview.png)](https://youtu.be/MqZ2I-h_FOA)
  Inferences performed on day+night dataset | Inferences performed on night dataset 
 
