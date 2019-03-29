@@ -71,30 +71,9 @@ Available [here](https://drive.google.com/drive/folders/1ZoXfgpTT1N5eOsI4-Tcv0id
 
 Videos demonstrating the inference performed by the trained Faster R-CNN model which yielded the best results with our proposed system.
 
-#### Testing on Day+Night Dataset
-
-Inferences performed on day+night dataset:
-
-[![Video1](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/day_plus_night_video_overview.png)](https://youtu.be/qENxVuUXa0s)
-
-#### Testing on Night Dataset
-
-Inferences performed on night dataset:
-
-[![Video2](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/night_video_overview.png)](https://youtu.be/MqZ2I-h_FOA)
-
----
-
-<style>
-.site-main table.no-border td {
-    border: none;
-}
-</style>
-<table class="no-border">....</table>
-
  Testing on Day+Night Dataset | Testing on Night Dataset 
 :-------------------------:|:-------------------------:
-[![Video1](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/day_plus_night_video_overview.png)](https://youtu.be/qENxVuUXa0s)  |  [![Video2](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/night_video_overview.png)](https://youtu.be/MqZ2I-h_FOA)
+[![Video1](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/day_plus_night_video_overview.png).center[A figure caption.]](https://youtu.be/qENxVuUXa0s)  |  [![Video2](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/night_video_overview.png)](https://youtu.be/MqZ2I-h_FOA)
  Inferences performed on day+night dataset | Inferences performed on night dataset 
 
 ---
