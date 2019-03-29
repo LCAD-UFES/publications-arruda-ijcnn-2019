@@ -1,18 +1,21 @@
 ## Cross-Domain Car Detection Using Unsupervised Image-to-Image Translation: From Day to Night
 
-[Vinicius F. Arruda](viniciusarruda.github.io), Thiago M. Paixão, [Rodrigo F. Berriel](http://rodrigoberriel.com), [Alberto F. De Souza](https://inf.ufes.br/~alberto), [Claudine Badue](https://www.inf.ufes.br/~claudine/), [Nicu Sebe](http://disi.unitn.it/~sebe/) and [Thiago Oliveira-Santos](https://www.inf.ufes.br/~todsantos/home)
+[Vinicius F. Arruda](viniciusarruda.github.io), [Thiago M. Paixão](https://sites.google.com/site/professorpx), [Rodrigo F. Berriel](http://rodrigoberriel.com), [Alberto F. De Souza](https://inf.ufes.br/~alberto), [Claudine Badue](https://www.inf.ufes.br/~claudine/), [Nicu Sebe](http://disi.unitn.it/~sebe/) and [Thiago Oliveira-Santos](https://www.inf.ufes.br/~todsantos/home)
 
 <!---Published in *todo*: [DOI](https://www.google.com/)-->
+Paper accepted at IJCNN 2019 Conference.
+A preprint version can be accessed [here](https://drive.google.com/file/d/162QG-V5-ogNFTtwFJi_GeDKrPzdnTH0X/view?usp=sharing).
+
+#### Copyright
+
+&copy; 2019 IEEE. Personal use of this material is permitted.  Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
 
 #### Abstract
 
-Coming soon !
-<!---
-Object detection has become a high-profile research area due to its important role in various tasks involving images. However, state-of-the-art detectors are data-driven, delegating the accuracy to the training dataset which must resemble the images in the target task. The acquisition of a dataset involves annotating images, an arduous and expensive process, generally requiring time and manual effort. Thus, a challenging scenario arises when the target domain of application has no annotated dataset available, making tasks in such situation to lean on a training dataset of a different domain.
+Deep learning techniques have enabled the emergence of state-of-the-art models to address object detection tasks. However, these techniques are data-driven, delegating the accuracy to the training dataset which must resemble the images in the target task. The acquisition of a dataset involves annotating images, an arduous and expensive process, generally requiring time and manual effort. Thus, a challenging scenario arises when the target domain of application has no annotated dataset available, making tasks in such situation to lean on a training dataset of a different domain.
 Sharing this issue, object detection is a vital task for autonomous vehicles where the large amount of driving scenarios yields several domains of application requiring annotated data for the training process.
 In this work, a method for training a car detection system with annotated data from a source domain (day images) without requiring the image annotations of the target domain (night images) is presented. 
-For that, a model based on Generative Adversarial Networks (GANs) is explored to enable the generation of an artificial dataset with its respective annotations. The artificial dataset (fake dataset) is created translating images from day-time domain to night-time domain. The fake dataset is used to train a car detector model and results show that it outperforms baseline models trained on the source domain. Finally, several experiments were conducted for comparison showing that the method achieved significant and consistent improvements, increasing the detection performance in more than 10\% when compared to a baseline.
--->
+For that, a model based on Generative Adversarial Networks (GANs) is explored to enable the generation of an artificial dataset with its respective annotations. The artificial dataset (fake dataset) is created translating images from day-time domain to night-time domain. The fake dataset, which comprises annotated images of only the target domain (night images), is then used to train the car detector model. Experimental results showed that the proposed method achieved significant and consistent improvements, including the increasing by more than 10% of the detection performance when compared to the training with only the available annotated data (i.e., day images).
 
 ---
 
@@ -82,9 +85,10 @@ Inferences performed on night dataset:
 
 ---
 
-### BibTeX
+<!--### BibTeX-->
 
-todo
+<!--Coming Soon !-->
+
 
 <!--
     @article{berriel2017grsl,
