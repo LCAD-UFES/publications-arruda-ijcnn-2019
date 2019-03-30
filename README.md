@@ -23,11 +23,11 @@ For that, a model based on Generative Adversarial Networks (GANs) is explored to
 
 #### CycleGAN
 
-The source code used for the CycleGAN model was made publicy available by [Van Huy](https://github.com/vanhuyz/CycleGAN-TensorFlow).
+The source code used for the CycleGAN model was made publicly available by [Van Huy](https://github.com/vanhuyz/CycleGAN-TensorFlow).
 
 #### Faster R-CNN
 
-The source code used for the Faster R-CNN model was made publicy available by [Xinlei Chen](https://github.com/endernewton/tf-faster-rcnn).
+The source code used for the Faster R-CNN model was made publicly available by [Xinlei Chen](https://github.com/endernewton/tf-faster-rcnn).
 
 For training the Faster R-CNN, a pre-trained resnet-101 model was used to initializate the process an can be downloaded [here](http://download.tensorflow.org/models/resnet_v1_101_2016_08_28.tar.gz).
 
@@ -52,7 +52,7 @@ The trained models used in this paper are available [here](https://drive.google.
 ##### Dataset Acquisition
 
 Download the Berkeley Deep Drive dataset [here](https://bdd-data.berkeley.edu/).
-Is only necessary to download the Images and Labels files.
+It is only necessary to download the Images and Labels files.
 
 ##### Dataset Filtering
 
