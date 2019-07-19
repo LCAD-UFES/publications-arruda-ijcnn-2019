@@ -1,7 +1,5 @@
 ## Cross-Domain Car Detection Using Unsupervised Image-to-Image Translation: From Day to Night
 
-![Method Overview](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/methodoverview.png)
-
 [Vinicius F. Arruda](https://viniciusarruda.github.io/), [Thiago M. Paixão](https://sites.google.com/site/professorpx), [Rodrigo F. Berriel](http://rodrigoberriel.com), [Alberto F. De Souza](https://inf.ufes.br/~alberto), [Claudine Badue](https://www.inf.ufes.br/~claudine/), [Nicu Sebe](http://disi.unitn.it/~sebe/) and [Thiago Oliveira-Santos](https://www.inf.ufes.br/~todsantos/home)
 
 <!---Published in *todo*: [DOI](https://www.google.com/)-->
@@ -13,6 +11,8 @@ A preprint version can be accessed [here](https://drive.google.com/file/d/162QG-
 &copy; 2019 IEEE. Personal use of this material is permitted.  Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
 
 #### Abstract
+
+![Method Overview](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/methodoverview.png)
 
 Deep learning techniques have enabled the emergence of state-of-the-art models to address object detection tasks. However, these techniques are data-driven, delegating the accuracy to the training dataset which must resemble the images in the target task. The acquisition of a dataset involves annotating images, an arduous and expensive process, generally requiring time and manual effort. Thus, a challenging scenario arises when the target domain of application has no annotated dataset available, making tasks in such situation to lean on a training dataset of a different domain.
 Sharing this issue, object detection is a vital task for autonomous vehicles where the large amount of driving scenarios yields several domains of application requiring annotated data for the training process.
