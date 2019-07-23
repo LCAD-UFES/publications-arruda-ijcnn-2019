@@ -4,7 +4,8 @@
 
 <!---Published in *todo*: [DOI](https://www.google.com/)-->
 Paper accepted at [IJCNN](https://www.ijcnn.org/) 2019 Conference.
-A preprint version can be accessed [here](https://drive.google.com/file/d/162QG-V5-ogNFTtwFJi_GeDKrPzdnTH0X/view?usp=sharing).
+A preprint version can be accessed [here](https://arxiv.org/abs/1907.08719).
+
 
 ![Method Overview](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/methodoverview.png)
 
@@ -74,13 +75,11 @@ Videos demonstrating the inference performed by the trained Faster R-CNN model w
 [![Video1](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/day_plus_night_video_overview.png)](https://youtu.be/qENxVuUXa0s) Inferences performed on day+night dataset |  [![Video2](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/night_video_overview.png)](https://youtu.be/MqZ2I-h_FOA) Inferences performed on night dataset 
 
 ---
-
+<!--
 #### Copyright
-
 &copy; 2019 IEEE. Personal use of this material is permitted.  Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
-
 ---
-
+-->
 <!--### BibTeX-->
 
 <!--Coming Soon !-->
