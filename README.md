@@ -2,9 +2,9 @@
 
 [Vinicius F. Arruda](https://viniciusarruda.github.io/), [Thiago M. Paixão](https://sites.google.com/site/professorpx), [Rodrigo F. Berriel](http://rodrigoberriel.com), [Alberto F. De Souza](https://inf.ufes.br/~alberto), [Claudine Badue](https://www.inf.ufes.br/~claudine/), [Nicu Sebe](http://disi.unitn.it/~sebe/) and [Thiago Oliveira-Santos](https://www.inf.ufes.br/~todsantos/home)
 
-<!---Published in *todo*: [DOI](https://www.google.com/)-->
-Paper accepted at [IJCNN](https://www.ijcnn.org/) 2019 Conference.
-A preprint version can be accessed [here](https://arxiv.org/abs/1907.08719).
+Published in [IJCNN](https://www.ijcnn.org/) 2019 Conference: [10.1109/IJCNN.2019.8852008](https://doi.org/10.1109/IJCNN.2019.8852008)
+The preprint version can be accessed [here](https://arxiv.org/abs/1907.08719).
+
 
 
 ![Method Overview](https://github.com/viniciusarruda/cross-domain-car-detection/blob/master/images/methodoverview.png)
@@ -80,18 +80,16 @@ Videos demonstrating the inference performed by the trained Faster R-CNN model w
 &copy; 2019 IEEE. Personal use of this material is permitted.  Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
 ---
 -->
-<!--### BibTeX-->
 
-<!--Coming Soon !-->
+### BibTeX
 
+@inproceedings{arruda2019ijcnn,
+  author={Vinicius F. Arruda, Thiago M. Paixão, Rodrigo F. Berriel, Alberto F. De Souza, Claudine Badue, Nicu Sebe and Thiago Oliveira-Santos},
+  booktitle={2019 International Joint Conference on Neural Networks (IJCNN)},
+  title={Cross-Domain Car Detection Using Unsupervised Image-to-Image Translation: From Day to Night},
+  year={2019},
+  doi={10.1109/IJCNN.2019.8852008},
+  ISSN={2161-4407},
+  month={July}
+}
 
-<!--
-    @article{berriel2017grsl,
-        Author  = {Rodrigo F. Berriel and Andre T. Lopes and Alberto F. de Souza and Thiago Oliveira-Santos},
-        Title   = {{Deep Learning Based Large-Scale Automatic Satellite Crosswalk Classification}},
-        Journal = {IEEE Geoscience and Remote Sensing Letters},
-        Year    = {2017},
-        DOI     = {10.1109/LGRS.2017.2719863},
-        ISSN    = {1545-598X},
-    }
--->
