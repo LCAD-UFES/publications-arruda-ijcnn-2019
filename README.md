@@ -84,13 +84,13 @@ Videos demonstrating the inference performed by the trained Faster R-CNN model w
 
 ### BibTeX
 
-@inproceedings{arruda2019ijcnn,
-  author={Vinicius F. Arruda, Thiago M. Paixão, Rodrigo F. Berriel, Alberto F. De Souza, Claudine Badue, Nicu Sebe and Thiago Oliveira-Santos},
-  booktitle={2019 International Joint Conference on Neural Networks (IJCNN)},
-  title={Cross-Domain Car Detection Using Unsupervised Image-to-Image Translation: From Day to Night},
-  year={2019},
-  doi={10.1109/IJCNN.2019.8852008},
-  ISSN={2161-4407},
-  month={July}
-}
+    @inproceedings{arruda2019ijcnn,
+      author={Vinicius F. Arruda, Thiago M. Paixão, Rodrigo F. Berriel, Alberto F. De Souza, Claudine Badue, Nicu Sebe and Thiago Oliveira-Santos},
+      booktitle={2019 International Joint Conference on Neural Networks (IJCNN)},
+      title={Cross-Domain Car Detection Using Unsupervised Image-to-Image Translation: From Day to Night},
+      year={2019},
+      doi={10.1109/IJCNN.2019.8852008},
+      ISSN={2161-4407},
+      month={July}
+    }
 
