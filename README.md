@@ -1,6 +1,6 @@
 ## Cross-Domain Car Detection Using Unsupervised Image-to-Image Translation: From Day to Night
 
-[Vinicius F. Arruda](https://viniciusarruda.github.io/), [Thiago M. Paixão](https://sites.google.com/site/thiagopx), [Rodrigo F. Berriel](http://rodrigoberriel.com), [Alberto F. De Souza](https://inf.ufes.br/~alberto), [Claudine Badue](https://www.inf.ufes.br/~claudine/), [Nicu Sebe](http://disi.unitn.it/~sebe/) and [Thiago Oliveira-Santos](https://www.inf.ufes.br/~todsantos/home)
+[Vinicius F. Arruda](https://viniciusarruda.github.io/), [Thiago M. Paixão](https://sites.google.com/view/thiagopx), [Rodrigo F. Berriel](http://rodrigoberriel.com), [Alberto F. De Souza](https://inf.ufes.br/~alberto), [Claudine Badue](https://www.inf.ufes.br/~claudine/), [Nicu Sebe](http://disi.unitn.it/~sebe/) and [Thiago Oliveira-Santos](https://www.inf.ufes.br/~todsantos/home)
 
 Published in [IJCNN](https://www.ijcnn.org/) 2019 Conference: [10.1109/IJCNN.2019.8852008](https://doi.org/10.1109/IJCNN.2019.8852008)
 
